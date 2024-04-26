@@ -63,7 +63,7 @@ img {
 
 .card__title,
 .card__content {
-  padding-inline: 0.5rem;
+  padding-inline: 0.75rem;
 }
 
 @media (min-width: 50rem) {
