@@ -10,7 +10,7 @@ img {
   display: block;
 }
 .body {
-  min-height: 90svh;
+  min-height: 100svh;
   display: grid;
   place-content: center;
   padding: 28px;
